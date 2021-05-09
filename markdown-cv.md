@@ -20,7 +20,7 @@
 
 1. Good communication skills
 2. team player
-3. technical skills: CAD drawing, Solid Works
+3. technical skills: CAD drawing, Solid Works, Python
 ---
 **Refrences**:
 
